@@ -1,0 +1,20 @@
+{
+  "name": "hugo-tailwindcss",
+  "version": "0.0.1",
+  "description": "Example for Hugo site with tailwindcss starter theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javifm86/hugo-tailwindcss.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javifm86/hugo-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/javifm86/hugo-tailwindcss#readme"
+}

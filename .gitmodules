@@ -1,0 +1,3 @@
+[submodule "themes/tailwindcss"]
+	path = themes/tailwindcss
+	url = https://github.com/javifm86/hugo-tailwindcss-starter.git
